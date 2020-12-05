@@ -14,3 +14,6 @@ Esta es una página web creada con HTML5 y CSS3 llena de animaciones.
 Es totalmente adaptable a cualquier dispositivo.
 Es visiblemente muy interesante y bien desarrollado.
 La cantidad de animaciones que presenta le ofrece al usuario una experiencia visual agradable.
+
+
+![alt text](https://github.com/Edi10-developer/Animations-Web-Page/blob/master/WebPage2.png)
